@@ -2,17 +2,12 @@
 
 ## KoMath 
 
-Aplicación Android desarrollada en Kotlin, que te permite aprender fórmulas matemáticas.
+Aplicación Android desarrollada en Kotlin, que te permite aprender fórmulas matemáticas. Este proyecto esta implementado usando el patrón MVP(Model View Presenter) , las librerías de material design y retrofit.
 
-<img src="./screenshots/screenshot1.png" height="480">
-<img src="./screenshots/screenshot2.png" height="480">
+<img src="./screenshots/screenshot1.png" height="480"><img src="./screenshots/screenshot2.png" height="480">
 
-<img src="./screenshots/screenshot3.png" height="480">
-<img src="./screenshots/screenshot4.png" height="480">
+<img src="./screenshots/screenshot3.png" height="480"><img src="./screenshots/screenshot4.png" height="480">
 
-## Guía 
-
-- Guía práctica para la construir una aplicación Android usando Kotlin [https://github.com/emedinaa/KoMath/blob/master/GUIDE.md](https://github.com/emedinaa/KoMath/blob/master/GUIDE.md)
 
 ## Dependencias
 
@@ -20,6 +15,15 @@ Aplicación Android desarrollada en Kotlin, que te permite aprender fórmulas ma
 
 - Retrofit Converter-Gson 2.1.0 
 
-## Issues
+- OkHttp3
 
-## Google Play
+- FlexboxLayout:0.2.6
+
+## Referencias
+
+- Kotlin https://kotlinlang.org/docs/reference/
+
+- Kotlin Android https://kotlinlang.org/docs/tutorials/
+
+- FlexboxLayout https://github.com/google/flexbox-layout
+

@@ -27,7 +27,7 @@ Aplicación Android desarrollada en Kotlin, que te permite aprender fórmulas ma
 
 Si necesitas un proyecto base en Kotlin, puedes descargar este ejemplo https://github.com/emedinaa/KoMath/blob/master/SampleKotlin 
 
-Para seguir este proyecto revis el branch "dev"
+Para seguir este proyecto revisar el branch "dev"
 https://github.com/emedinaa/KoMath/tree/dev
 
 ## Issues
